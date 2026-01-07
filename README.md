@@ -31,8 +31,17 @@
 </p>
 
 <!-- 사용한 언어 순위 카드 -->
-<a href="https://github.com/yeji-dev25"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=yeji-dev25&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true" alt="YEJI's github stats" /></a>
-<a href="https://github.com/yeji-dev25"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeji-dev25&layout=compact&theme=nord&hide_border=true" /></a> 
+<div>
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api?username=yeji-dev25&show_icons=true&include_all_commits=true&theme=onedark&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=yeji-dev25&layout=compact"
+    height="160"
+  />
+</div>
+
 
 <!-- solved.ac 프로필 -->
 ## ⚙️ Algorithm
