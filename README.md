@@ -4,7 +4,7 @@
 ## ✉️ Contact
 <p>
   <!-- gmail -->
-  <img src="https://img.shields.io/badge/jyjjj0329@gamil.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=jyjjj0329@gachon.ac.kr"/>
   <!-- Tistory -->
   <a href="https://1devlog.tistory.com/"><img src="https://img.shields.io/badge/Tech Blog-orange?style=flat-square&logo=tistory&logoColor=white"/></a>
 </p>
