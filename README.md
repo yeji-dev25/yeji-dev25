@@ -16,7 +16,6 @@
 ## 💻 Tech Stacks
 <p>
   <img src="https://img.shields.io/badge/Java-B07219?style=flat-square&logoColor=white"/>
-  <img src="https://img.shields.io/badge/kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring Data JPA-3E7B27?style=flat-square&logoColor=white"/>
 </p>
