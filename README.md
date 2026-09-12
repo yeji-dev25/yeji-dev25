@@ -9,7 +9,7 @@
   ### ✉️ Contact
   <p>
     <!-- gmail -->
-    <a href="mailto:jyjjj0329@gachon.ac.kr" target="_blank">
+    <a href="mailto:choyeji0329@gmail.com" target="_blank">
       <img src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat-square&logo=Gmail&logoColor=white"/>
     </a>
     <!-- Tistory -->
